@@ -74,3 +74,5 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+camera: ^0.5.7+4
+firebase_ml_vision: ^0.9.3+8
